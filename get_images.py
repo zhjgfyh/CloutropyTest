@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 
 # Date: 2018.11.26
-# ToDo: 图片爬虫
+# ToDo: 图片爬虫 - jandan
 
 import requests
 from bs4 import BeautifulSoup
