@@ -7,7 +7,7 @@ import requests
 import unittest
 
 
-class get_ruquest(unittest.TestCase):
+class GetRequest(unittest.TestCase):
     def setUp(self):
         self.get_url = 'http://vodcms-testnew.cloutropy.com/vodcms/test/uploade'
 
