@@ -9,7 +9,7 @@ import unittest
 
 class PostRequest(unittest.TestCase):
     def setUp(self):
-        # 相关推荐接口 - Production
+        # 相关推荐接口
         self.url = 'http://vodvideo.cloutropy.com/client/video/relatedVideos'
 
     def test_post_01(self):
