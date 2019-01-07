@@ -1,6 +1,6 @@
 # -*-coding:utf-8-*-
 
-# Date: 2018.11.14
+# Date: 2018.1.7
 # ToDo: 选择排序
 
 def findSmallest(arr):
@@ -12,9 +12,6 @@ def findSmallest(arr):
             smallest_index = i
     return smallest_index
 
-# print(findSmallest([5, 3, 6, 2, 10]))
-
-
 def selectionSort(arr):
     newArr = []
     for i in range(len(arr)):
@@ -23,4 +20,3 @@ def selectionSort(arr):
     return newArr
 
 print(selectionSort([5, 3, 6, 2, 10]))
-
