@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 
 # Date: 2018.12.27
-# ToDo: Learn desing mode - responsible mode
+# ToDo: Learn designing mode - responsible mode
 
 class Person:
     '''请假人'''
