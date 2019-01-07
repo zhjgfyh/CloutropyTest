@@ -1,6 +1,6 @@
 # -*-coding:utf-8-*-
 
-# Date: 2018.1.7
+# Date: 2019.1.7
 # ToDo: 快速排序
 
 def quickSort(array):
